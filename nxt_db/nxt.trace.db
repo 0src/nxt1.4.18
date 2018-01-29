@@ -1,0 +1,4 @@
+01-29 00:58:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabelle "VERSION" nicht gefunden
+Table "VERSION" not found; SQL statement:
+SELECT next_update FROM version [42102-176]
